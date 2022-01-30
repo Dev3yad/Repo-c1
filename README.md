@@ -101,4 +101,4 @@ python3 main.py # run the bot.
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
 
 ### Support & Updates 🎑
-<a href="https://t.me/YYYBR"><img src="https://telegra.ph/file/643c459d0fc438be7b1ff.jpg"></a> <a href="https://t.me/levinachannel"><img src="https://telegra.ph/file/643c459d0fc438be7b1ff.jpg"></a>
+<a href="https://t.me/YYYBR"><img src="https://telegra.ph/file/643c459d0fc438be7b1ff.jpg"></a>
